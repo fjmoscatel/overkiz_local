@@ -1,6 +1,6 @@
 {
-  "domain": "overkiz",
-  "name": "Overkiz",
+  "domain": "overkiz_local",
+  "name": "Overkiz_local",
   "codeowners": ["@imicknl", "@vlebourl", "@tetienne", "@nyroDev"],
   "config_flow": true,
   "dhcp": [
