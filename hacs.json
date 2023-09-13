@@ -1,0 +1,8 @@
+{
+  "name": "overkiz_local",
+  "render_readme": true,
+  "country": "ES",
+  "homeassistant": "2023.9.0",
+  "zip_release": true,
+  "filename": "overkiz_local.zip"
+}
